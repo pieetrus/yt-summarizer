@@ -51,4 +51,4 @@ The script will then:
 - Download the audio from the YouTube video
 - Transcribe the audio (or extract the existing transcript if available)
 - Generate a summary in the specified language
-- Save the transcript and summary in the work directory (default: `~/yt_summarizer_files/`)
+- Save the transcript and summary in the work directory (default: `./yt_summarizer_files/`)
